@@ -8,4 +8,5 @@ This is my first project "Hello World".
 > I just learned about **git and github** but i'm very interested in it.
 
 -------------------------------------------------------------------------
-<https://github.com/nhat2402>
+
+My Github: [nhat2402](https://github.com/nhat2402)
